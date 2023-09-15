@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LoginSignupFormsLab</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="conf_password">Confirm password</string>
+    <string name="username">Username</string>
+    <string name="title">App Urbanismo Táctico</string>
+    <string name="login">Login</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="binary">Non-binary</string>
+    <string name="click_to_register">Click to Register</string>
+    <string name="click_to_login">Click to Login</string>
+</resources>
